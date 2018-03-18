@@ -1,0 +1,22 @@
+{
+    "name": "node-cluster",
+    "version": "1.0.0",
+    "description": "A simple Node.JS application running on multiple cores",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [
+        "clustering",
+        "nodejs",
+        "runtime",
+        "multi-threaded",
+        "multiple cores"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/TheBeachMaster/node-cluster.git"
+    },
+    "author": "TheBeachmaster",
+    "license": "ISC"
+}
